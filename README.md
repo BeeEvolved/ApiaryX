@@ -1,5 +1,10 @@
 # ApiaryX: Leveraging Honey bees in space.
 
+<p align="center">
+  <img src="ApiaryXWhite.png" alt="ApiaryX">
+</p>
+
+
 # Apis Stellaris: Honey Bees Vital Role in Deep Space Ecosystems
 
 ## Introduction
@@ -72,5 +77,19 @@ Honey bees produce Propolis, Royal Jelly, Bee Bread, and Beeswax, which are rich
 Honey bees' activities inside the hive can serve as a valuable indicator of the overall health of the space environment. Changes in bee behavior or hive conditions may alert astronauts to potential issues, providing early warning signals for environmental changes.
 
 ---
+## Contact
+
+If you have any inquiries, partnership opportunities, or general questions, feel free to reach out to us.
 
 
+**Website:** [www.beeevolved.com](https://beeevolved.com/))
+**Email:** social@beeevolved.com
+
+
+You can also find us on social media:
+
+- [𝕏](https://twitter.com/BeeEvolved)
+- [YouTube](https://www.youtube.com/@bee.evolved)
+
+
+We look forward to hearing from you!
